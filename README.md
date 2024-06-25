@@ -1,2 +1,3 @@
 # TSpredict_v2
 TSpredict_v2单时间序列工具箱
+MATLB2016以上运行TSpredict_v2，可导入excel数据或mat数据
